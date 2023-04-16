@@ -41,7 +41,7 @@
 오른 쪽에 보이는 말 줄임표(···)를 클릭해서 '기어모양'<i class="fa-light fa-gear"></i>'의 아이콘이 있는 '설정'을 누른 후, 
 ![image](https://user-images.githubusercontent.com/83335854/232286603-5a0ec373-4e4d-4370-b874-b10f386bb7b4.png)
 
-'모등 사람이 답할 수 있음'으로 상태를 변경하고 나머지는 기본값을 그대로 유지합니다.
+'모든 사람이 답할 수 있음'으로 상태를 변경하고 나머지는 기본값을 그대로 유지합니다.
 ![image](https://user-images.githubusercontent.com/83335854/232286686-9891947e-5217-4727-84e1-06d1b3761735.png)
 
 
